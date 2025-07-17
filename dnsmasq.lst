@@ -905,3 +905,6 @@ nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/tigera.io/4#inet#fw4#vpn_domains
 nftset=/docs.tigera.io/4#inet#fw4#vpn_domains
+nftset=/tigera.netlify.com/4#inet#fw4#vpn_domains
+nftset=/netlify.com/4#inet#fw4#vpn_domains
+
