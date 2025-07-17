@@ -907,4 +907,5 @@ nftset=/tigera.io/4#inet#fw4#vpn_domains
 nftset=/docs.tigera.io/4#inet#fw4#vpn_domains
 nftset=/tigera.netlify.com/4#inet#fw4#vpn_domains
 nftset=/netlify.com/4#inet#fw4#vpn_domains
+nftset=/clym.io/4#inet#fw4#vpn_domains
 
