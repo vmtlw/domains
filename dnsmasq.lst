@@ -409,6 +409,7 @@ nftset=/jw-russia.org/4#inet#fw4#vpn_domains
 nftset=/kaktus.media/4#inet#fw4#vpn_domains
 nftset=/kaleido.ai/4#inet#fw4#vpn_domains
 nftset=/kamatera.com/4#inet#fw4#vpn_domains
+nftset=/.kaneo.app/4#inet#fw4#vpn_domains
 nftset=/kara.su/4#inet#fw4#vpn_domains
 nftset=/kasparov.ru/4#inet#fw4#vpn_domains
 nftset=/kavkazr.com/4#inet#fw4#vpn_domains
