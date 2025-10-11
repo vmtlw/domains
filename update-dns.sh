@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 
-git_tmp_dir=/tmp/domains
+git_tmp_dir=/tmp/domains-$(date +%F-%M-%S)
+[[ -d $git_tmp_dir/.git ]] && rm -rf $git_tmp_dir
 git clone git@github.com:vmtlw/domains.git $git_tmp_dir
 domain=$1
 if grep -w $domain $git_tmp_dir/dnsmasq.lst; then 
