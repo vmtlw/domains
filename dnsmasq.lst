@@ -124,6 +124,7 @@ nftset=/cdn.web-platform.io/4#inet#fw4#vpn_domains
 nftset=/cdromance.org/4#inet#fw4#vpn_domains
 nftset=/cdw.com/4#inet#fw4#vpn_domains
 nftset=/censortracker.org/4#inet#fw4#vpn_domains
+nftset=/centrifugal.dev/4#inet#fw4#vpn_domains
 nftset=/chaos.com/4#inet#fw4#vpn_domains
 nftset=/chat.com/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains
