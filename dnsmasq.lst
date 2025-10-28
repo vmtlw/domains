@@ -62,6 +62,7 @@ nftset=/app.zerossl.com/4#inet#fw4#vpn_domains
 nftset=/arbat.media/4#inet#fw4#vpn_domains
 nftset=/archiveofourown.org/4#inet#fw4#vpn_domains
 nftset=/archive.ph/4#inet#fw4#vpn_domains
+nftset=/artifacts.elastic.co/4#inet#fw4#vpn_domains
 nftset=/as6723.net/4#inet#fw4#vpn_domains
 nftset=/assets.heroku.com/4#inet#fw4#vpn_domains
 nftset=/atn.ua/4#inet#fw4#vpn_domains
