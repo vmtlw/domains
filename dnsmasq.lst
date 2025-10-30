@@ -352,6 +352,7 @@ nftset=/hdrezka.ag/4#inet#fw4#vpn_domains
 nftset=/hdrezka.me/4#inet#fw4#vpn_domains
 nftset=/hd-rezka.tv/4#inet#fw4#vpn_domains
 nftset=/healthline.com/4#inet#fw4#vpn_domains
+nftset=/helm.releases.hashicorp.com/4#inet#fw4#vpn_domains
 nftset=/hentai-foundry.com/4#inet#fw4#vpn_domains
 nftset=/herokucdn.com/4#inet#fw4#vpn_domains
 nftset=/hetzner.com/4#inet#fw4#vpn_domains
