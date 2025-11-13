@@ -605,6 +605,7 @@ nftset=/parallels.cn/4#inet#fw4#vpn_domains
 nftset=/parallels.com/4#inet#fw4#vpn_domains
 nftset=/parallels.net/4#inet#fw4#vpn_domains
 nftset=/patreon.com/4#inet#fw4#vpn_domains
+nftset=/patreonusercontent.com/4#inet#fw4#vpn_domains
 nftset=/patriot.dp.ua/4#inet#fw4#vpn_domains
 nftset=/pb.wtf/4#inet#fw4#vpn_domains
 nftset=/pcgamesn.com/4#inet#fw4#vpn_domains
