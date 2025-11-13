@@ -19,6 +19,7 @@ git add dnsmasq.lst
 git commit -m "added $domain"
 git push
 cd -
+ssh 10.0.0.1 service getdomains restart
 
 rm -rf $git_tmp_dir
 set -x
