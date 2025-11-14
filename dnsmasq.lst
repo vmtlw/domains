@@ -643,6 +643,7 @@ nftset=/prnt.sc/4#inet#fw4#vpn_domains
 nftset=/proactivebackend-pa.googleapis.com/4#inet#fw4#vpn_domains
 nftset=/production-openaicom-storage.azureedge.net/4#inet#fw4#vpn_domains
 nftset=/proekt.media/4#inet#fw4#vpn_domains
+nftset=/prometheus.io/4#inet#fw4#vpn_domains
 nftset=/prosleduetmedia.com/4#inet#fw4#vpn_domains
 nftset=/prostovpn.org/4#inet#fw4#vpn_domains
 nftset=/proton.me/4#inet#fw4#vpn_domains
