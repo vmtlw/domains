@@ -907,6 +907,7 @@ nftset=/ukr.radio/4#inet#fw4#vpn_domains
 nftset=/ukrtelcdn.net/4#inet#fw4#vpn_domains
 nftset=/unian.ua/4#inet#fw4#vpn_domains
 nftset=/unscreen.com/4#inet#fw4#vpn_domains
+nftset=/unsplash.com/4#inet#fw4#vpn_domains
 nftset=/upwork.com/4#inet#fw4#vpn_domains
 nftset=/usa.one/4#inet#fw4#vpn_domains
 nftset=/usatoday.com/4#inet#fw4#vpn_domains
