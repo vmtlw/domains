@@ -87,6 +87,7 @@ nftset=/bell-sw.com/4#inet#fw4#vpn_domains
 nftset=/bestbuy.com/4#inet#fw4#vpn_domains
 nftset=/bestchange.ru/4#inet#fw4#vpn_domains
 nftset=/bihus.info/4#inet#fw4#vpn_domains
+nftset=/bitcoin.org/4#inet#fw4#vpn_domains
 nftset=/bitdefender.com/4#inet#fw4#vpn_domains
 nftset=/bitnami.com/4#inet#fw4#vpn_domains
 nftset=/blackseanews.net/4#inet#fw4#vpn_domains
