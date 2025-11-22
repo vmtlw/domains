@@ -56,6 +56,7 @@ nftset=/anthropic.com/4#inet#fw4#vpn_domains
 nftset=/aol.com/4#inet#fw4#vpn_domains
 nftset=/api.jetbrains.ai/4#inet#fw4#vpn_domains
 nftset=/api.service-kp.com/4#inet#fw4#vpn_domains
+nftset=/api.stytch.com/4#inet#fw4#vpn_domains
 nftset=/api.theins.info/4#inet#fw4#vpn_domains
 nftset=/api.themoviedb.org/4#inet#fw4#vpn_domains
 nftset=/apkmirror.com/4#inet#fw4#vpn_domains
