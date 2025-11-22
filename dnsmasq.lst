@@ -671,6 +671,7 @@ nftset=/redis.io/4#inet#fw4#vpn_domains
 nftset=/redislabs.com/4#inet#fw4#vpn_domains
 nftset=/redshieldvpn.com/4#inet#fw4#vpn_domains
 nftset=/refactoring.guru/4#inet#fw4#vpn_domains
+nftset=/relay-prod.api.verse.mom/4#inet#fw4#vpn_domains
 nftset=/remna.st/4#inet#fw4#vpn_domains
 nftset=/remove.bg/4#inet#fw4#vpn_domains
 nftset=/render-state.to/4#inet#fw4#vpn_domains
