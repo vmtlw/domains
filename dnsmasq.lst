@@ -656,6 +656,7 @@ nftset=/pscp.tv/4#inet#fw4#vpn_domains
 nftset=/psiphon.ca/4#inet#fw4#vpn_domains
 nftset=/public.parsec.app/4#inet#fw4#vpn_domains
 nftset=/qt.io/4#inet#fw4#vpn_domains
+nftset=/qualys.com/4#inet#fw4#vpn_domains
 nftset=/quora.com/4#inet#fw4#vpn_domains
 nftset=/quora.com.cdn.cloudflare.net/4#inet#fw4#vpn_domains
 nftset=/r4.err.ee/4#inet#fw4#vpn_domains
