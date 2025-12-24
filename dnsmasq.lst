@@ -359,6 +359,7 @@ nftset=/helm.releases.hashicorp.com/4#inet#fw4#vpn_domains
 nftset=/hentai-foundry.com/4#inet#fw4#vpn_domains
 nftset=/herokucdn.com/4#inet#fw4#vpn_domains
 nftset=/hetzner.com/4#inet#fw4#vpn_domains
+nftset=/hields.io/4#inet#fw4#vpn_domains
 nftset=/hlx.page/4#inet#fw4#vpn_domains
 nftset=/hollisterco.com/4#inet#fw4#vpn_domains
 nftset=/holod.media/4#inet#fw4#vpn_domains
