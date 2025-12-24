@@ -220,6 +220,7 @@ nftset=/discours.io/4#inet#fw4#vpn_domains
 nftset=/disctech.com/4#inet#fw4#vpn_domains
 nftset=/dis.gd/4#inet#fw4#vpn_domains
 nftset=/disneyplus.com/4#inet#fw4#vpn_domains
+nftset=/dn.jsdelivr.net/4#inet#fw4#vpn_domains
 nftset=/docs.liquibase.com/4#inet#fw4#vpn_domains
 nftset=/docs.tigera.io/4#inet#fw4#vpn_domains
 nftset=/do.letsbuildthe.cloud/4#inet#fw4#vpn_domains
