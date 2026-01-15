@@ -395,6 +395,7 @@ nftset=/internalfb.com/4#inet#fw4#vpn_domains
 nftset=/intuit.com/4#inet#fw4#vpn_domains
 nftset=/intuitibits.com/4#inet#fw4#vpn_domains
 nftset=/io/4#inet#fw4#vpn_domains
+nftset=/ai/4#inet#fw4#vpn_domains
 nftset=/ionos.com/4#inet#fw4#vpn_domains
 nftset=/iptv.online/4#inet#fw4#vpn_domains
 nftset=/i.sakh.com/4#inet#fw4#vpn_domains
