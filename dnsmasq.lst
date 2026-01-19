@@ -113,6 +113,7 @@ nftset=/builds.parsec.app/4#inet#fw4#vpn_domains
 nftset=/buymeacoffee.com/4#inet#fw4#vpn_domains
 nftset=/byteoversea.com/4#inet#fw4#vpn_domains
 nftset=/c10.patreonusercontent.com/4#inet#fw4#vpn_domains
+nftset=/caddyserver.com/4#inet#fw4#vpn_domains
 nftset=/canva.com/4#inet#fw4#vpn_domains
 nftset=/canva.dev/4#inet#fw4#vpn_domains
 nftset=/capacitorjs.com/4#inet#fw4#vpn_domains
