@@ -488,6 +488,7 @@ nftset=/mashable.com/4#inet#fw4#vpn_domains
 nftset=/mattermost.com/4#inet#fw4#vpn_domains
 nftset=/max.com/4#inet#fw4#vpn_domains
 nftset=/mbk-news.appspot.com/4#inet#fw4#vpn_domains
+nftset=/mediamtx.org/4#inet#fw4#vpn_domains
 nftset=/mediazona.ca/4#inet#fw4#vpn_domains
 nftset=/medicalnewstoday.com/4#inet#fw4#vpn_domains
 nftset=/medium.com/4#inet#fw4#vpn_domains
