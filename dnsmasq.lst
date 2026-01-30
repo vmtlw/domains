@@ -735,6 +735,7 @@ nftset=/sephora.com/4#inet#fw4#vpn_domains
 nftset=/servarr.com/4#inet#fw4#vpn_domains
 nftset=/severreal.org/4#inet#fw4#vpn_domains
 nftset=/sfdcopens.com/4#inet#fw4#vpn_domains
+nftset=/sh/4#inet#fw4#vpn_domains
 nftset=/shikimori.me/4#inet#fw4#vpn_domains
 nftset=/shinyhardware.co.uk/4#inet#fw4#vpn_domains
 nftset=/shiza-project.com/4#inet#fw4#vpn_domains
