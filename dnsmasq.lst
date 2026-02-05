@@ -109,6 +109,7 @@ nftset=/citrix.com/4#inet#fw4#vpn_domains
 nftset=/clashofclans.com/4#inet#fw4#vpn_domains
 nftset=/clashroyaleapp.com/4#inet#fw4#vpn_domains
 nftset=/claude.ai/4#inet#fw4#vpn_domains
+nftset=/claudflare.com/4#inet#fw4#vpn_domains
 nftset=/clickup.com/4#inet#fw4#vpn_domains
 nftset=/clip.opus.pro/4#inet#fw4#vpn_domains
 nftset=/cloudtorrents.com/4#inet#fw4#vpn_domains
