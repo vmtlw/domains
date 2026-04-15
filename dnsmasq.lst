@@ -750,6 +750,7 @@ nftset=/timberland.de/4#inet#fw4#vpn_domains
 nftset=/tiptop-vpn.com/4#inet#fw4#vpn_domains
 nftset=/tmdb.com/4#inet#fw4#vpn_domains
 nftset=/t.me/4#inet#fw4#vpn_domains
+nftset=/ton.org/4#inet#fw4#vpn_domains
 nftset=/toolbox.app/4#inet#fw4#vpn_domains
 nftset=/torg.org/4#inet#fw4#vpn_domains
 nftset=/torrenteditor.com/4#inet#fw4#vpn_domains
