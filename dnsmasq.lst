@@ -662,6 +662,7 @@ nftset=/startpage.com/4#inet#fw4#vpn_domains
 nftset=/static.cloudflareinsights.com/4#inet#fw4#vpn_domains
 nftset=/static.lostfilm.top/4#inet#fw4#vpn_domains
 nftset=/steamstat.info/4#inet#fw4#vpn_domains
+nftset=/stel.com/4#inet#fw4#vpn_domains
 nftset=/strana.news/4#inet#fw4#vpn_domains
 nftset=/strana.today/4#inet#fw4#vpn_domains
 nftset=/strava.com/4#inet#fw4#vpn_domains
