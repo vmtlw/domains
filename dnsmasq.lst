@@ -556,6 +556,7 @@ nftset=/opposition-news.com/4#inet#fw4#vpn_domains
 nftset=/oraclecloud.com/4#inet#fw4#vpn_domains
 nftset=/oracle.com/4#inet#fw4#vpn_domains
 nftset=/osrfoundation.org/4#inet#fw4#vpn_domains
+nftset=/otwld.com/4#inet#fw4#vpn_domains
 nftset=/outline-vpn.com/4#inet#fw4#vpn_domains
 nftset=/ovd.info/4#inet#fw4#vpn_domains
 nftset=/ovd.legal/4#inet#fw4#vpn_domains
