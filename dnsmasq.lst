@@ -118,6 +118,7 @@ nftset=/chaos.com/4#inet#fw4#vpn_domains
 nftset=/chat.com/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains
 nftset=/chat.openai.com.cdn.cloudflare.net/4#inet#fw4#vpn_domains
+nftset=/chatto.run/4#inet#fw4#vpn_domains
 nftset=/chaturbate.com/4#inet#fw4#vpn_domains
 nftset=/cherta.media/4#inet#fw4#vpn_domains
 nftset=/chess.com/4#inet#fw4#vpn_domains
