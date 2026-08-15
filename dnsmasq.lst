@@ -192,6 +192,7 @@ nftset=/digash.live/4#inet#fw4#vpn_domains
 nftset=/digikey.com/4#inet#fw4#vpn_domains
 nftset=/digitalcontent.sky/4#inet#fw4#vpn_domains
 nftset=/digitalocean.com/4#inet#fw4#vpn_domains
+nftset=/digitaloceanspaces.com/4#inet#fw4#vpn_domains
 nftset=/discord-activities.com/4#inet#fw4#vpn_domains
 nftset=/discordactivities.com/4#inet#fw4#vpn_domains
 nftset=/discordapp.com/4#inet#fw4#vpn_domains
