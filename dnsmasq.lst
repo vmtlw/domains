@@ -307,6 +307,7 @@ nftset=/ggpht.com/4#inet#fw4#vpn_domains
 nftset=/ghcr.io/4#inet#fw4#vpn_domains
 nftset=/ghostrc.game.idtech.services/4#inet#fw4#vpn_domains
 nftset=/github.com/4#inet#fw4#vpn_domains
+nftset=/gitlab-charts.s3.amazonaws.com/4#inet#fw4#vpn_domains
 nftset=/gitlab.com/4#inet#fw4#vpn_domains
 nftset=/gitlab.io/4#inet#fw4#vpn_domains
 nftset=/global.fncstatic.com/4#inet#fw4#vpn_domains
