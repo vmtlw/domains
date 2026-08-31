@@ -643,6 +643,7 @@ nftset=/remove.bg/4#inet#fw4#vpn_domains
 nftset=/render-state.to/4#inet#fw4#vpn_domains
 nftset=/rentry.co/4#inet#fw4#vpn_domains
 nftset=/republic.ru/4#inet#fw4#vpn_domains
+nftset=/retirenet.com/4#inet#fw4#vpn_domains
 nftset=/returnyoutubedislikeapi.com/4#inet#fw4#vpn_domains
 nftset=/reve.art/4#inet#fw4#vpn_domains
 nftset=/rezka.ag/4#inet#fw4#vpn_domains
