@@ -116,6 +116,7 @@ nftset=/cdw.com/4#inet#fw4#vpn_domains
 nftset=/centrifugal.dev/4#inet#fw4#vpn_domains
 nftset=/chaos.com/4#inet#fw4#vpn_domains
 nftset=/chat.com/4#inet#fw4#vpn_domains
+nftset=/chatgpt1.com/4#inet#fw4#vpn_domains
 nftset=/chatgpt.com/4#inet#fw4#vpn_domains
 nftset=/chat.openai.com.cdn.cloudflare.net/4#inet#fw4#vpn_domains
 nftset=/chatto.run/4#inet#fw4#vpn_domains
