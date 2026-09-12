@@ -2,6 +2,7 @@
 set -e
 
 git_tmp_dir=/tmp/domains-$(date +%F-%H-%M-%S)
+trap 'rm -rf "$git_tmp_dir"' EXIT
 git clone git@github.com:vmtlw/domains.git "$git_tmp_dir"
 
 changed=0
@@ -44,6 +45,3 @@ if [[ $changed -eq 1 ]]; then
 else
     echo "no changes"
 fi
-
-rm -rf "$git_tmp_dir"
-
