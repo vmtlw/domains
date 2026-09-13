@@ -190,6 +190,7 @@ nftset=/designify.com/4#inet#fw4#vpn_domains
 nftset=/dev/4#inet#fw4#vpn_domains
 nftset=/developer.nvidia.com/4#inet#fw4#vpn_domains
 nftset=/deviantart.com/4#inet#fw4#vpn_domains
+nftset=/dev.to/4#inet#fw4#vpn_domains
 nftset=/digash.live/4#inet#fw4#vpn_domains
 nftset=/digikey.com/4#inet#fw4#vpn_domains
 nftset=/digitalcontent.sky/4#inet#fw4#vpn_domains
