@@ -936,6 +936,7 @@ nftset=/wunderground.com/4#inet#fw4#vpn_domains
 nftset=/www3.corsair.com/4#inet#fw4#vpn_domains
 nftset=/www.cloudkeeper.com/4#inet#fw4#vpn_domains
 nftset=/www.keybr.com/4#inet#fw4#vpn_domains
+nftset=/www.ory.com/4#inet#fw4#vpn_domains
 nftset=/x.ai/4#inet#fw4#vpn_domains
 nftset=/x.com/4#inet#fw4#vpn_domains
 nftset=/xhamster.com/4#inet#fw4#vpn_domains
