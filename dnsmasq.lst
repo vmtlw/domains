@@ -695,6 +695,7 @@ nftset=/salesforceliveagent.com/4#inet#fw4#vpn_domains
 nftset=/salesforce-scrt.com/4#inet#fw4#vpn_domains
 nftset=/salesforce-setup.com/4#inet#fw4#vpn_domains
 nftset=/salesforce-sites.com/4#inet#fw4#vpn_domains
+nftset=/samba.org/4#inet#fw4#vpn_domains
 nftset=/sap.com/4#inet#fw4#vpn_domains
 nftset=/sbcglobal.net/4#inet#fw4#vpn_domains
 nftset=/sci-hub.se/4#inet#fw4#vpn_domains
