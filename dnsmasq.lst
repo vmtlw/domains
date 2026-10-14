@@ -58,6 +58,7 @@ nftset=/api.themoviedb.org/4#inet#fw4#vpn_domains
 nftset=/apkmirror.com/4#inet#fw4#vpn_domains
 nftset=/app.pachca.com/4#inet#fw4#vpn_domains
 nftset=/app.zerossl.com/4#inet#fw4#vpn_domains
+nftset=/aquasec.com/4#inet#fw4#vpn_domains
 nftset=/arbat.media/4#inet#fw4#vpn_domains
 nftset=/archive.ph/4#inet#fw4#vpn_domains
 nftset=/artifacts.elastic.co/4#inet#fw4#vpn_domains
