@@ -464,6 +464,7 @@ nftset=/lidarr.audio/4#inet#fw4#vpn_domains
 nftset=/lifehacker.com/4#inet#fw4#vpn_domains
 nftset=/lightning.ai/4#inet#fw4#vpn_domains
 nftset=/linear.app/4#inet#fw4#vpn_domains
+nftset=/linkding.link/4#inet#fw4#vpn_domains
 nftset=/linkedin.com/4#inet#fw4#vpn_domains
 nftset=/linktr.ee/4#inet#fw4#vpn_domains
 nftset=/linkwarden.app/4#inet#fw4#vpn_domains
