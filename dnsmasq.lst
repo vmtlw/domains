@@ -24,6 +24,7 @@ nftset=/ahrefs.com/4#inet#fw4#vpn_domains
 nftset=/ai/4#inet#fw4#vpn_domains
 nftset=/ai-chat.bsg.brave.com/4#inet#fw4#vpn_domains
 nftset=/ai.com/4#inet#fw4#vpn_domains
+nftset=/akadns.net/4#inet#fw4#vpn_domains
 nftset=/algolia.com/4#inet#fw4#vpn_domains
 nftset=/allegro.pl/4#inet#fw4#vpn_domains
 nftset=/alphacoders.com/4#inet#fw4#vpn_domains
