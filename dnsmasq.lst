@@ -463,6 +463,7 @@ nftset=/leafletjs.com/4#inet#fw4#vpn_domains
 nftset=/letsbuildthe.cloud/4#inet#fw4#vpn_domains
 nftset=/lgeapi.com/4#inet#fw4#vpn_domains
 nftset=/lgthinq.com/4#inet#fw4#vpn_domains
+nftset=/libera.chat/4#inet#fw4#vpn_domains
 nftset=/libgen.li/4#inet#fw4#vpn_domains
 nftset=/licdn.com/4#inet#fw4#vpn_domains
 nftset=/lidarr.audio/4#inet#fw4#vpn_domains
