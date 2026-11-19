@@ -75,6 +75,7 @@ nftset=/aws/4#inet#fw4#vpn_domains
 nftset=/aws.com/4#inet#fw4#vpn_domains
 nftset=/awsstatic.com/4#inet#fw4#vpn_domains
 nftset=/azathabar.com/4#inet#fw4#vpn_domains
+nftset=/azure.com/4#inet#fw4#vpn_domains
 nftset=/baikal-journal.ru/4#inet#fw4#vpn_domains
 nftset=/bato.to/4#inet#fw4#vpn_domains
 nftset=/bbc.com/4#inet#fw4#vpn_domains
