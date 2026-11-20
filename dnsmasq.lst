@@ -428,6 +428,7 @@ nftset=/jamf.com/4#inet#fw4#vpn_domains
 nftset=/jetbrains.com/4#inet#fw4#vpn_domains
 nftset=/jetbrains.space/4#inet#fw4#vpn_domains
 nftset=/jnn-pa.googleapis.com/4#inet#fw4#vpn_domains
+nftset=/joinpeertube.org/4#inet#fw4#vpn_domains
 nftset=/jut.su/4#inet#fw4#vpn_domains
 nftset=/k8s.io/4#inet#fw4#vpn_domains
 nftset=/kaktus.media/4#inet#fw4#vpn_domains
